@@ -1,0 +1,208 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "5dim_automatization",
+      "enabled": false
+    },
+    {
+      "name": "5dim_battlefield",
+      "enabled": false
+    },
+    {
+      "name": "5dim_core",
+      "enabled": false
+    },
+    {
+      "name": "5dim_decoration",
+      "enabled": false
+    },
+    {
+      "name": "5dim_energy",
+      "enabled": false
+    },
+    {
+      "name": "5dim_logistic",
+      "enabled": false
+    },
+    {
+      "name": "5dim_mining",
+      "enabled": false
+    },
+    {
+      "name": "5dim_module",
+      "enabled": false
+    },
+    {
+      "name": "5dim_ores",
+      "enabled": false
+    },
+    {
+      "name": "5dim_resources",
+      "enabled": false
+    },
+    {
+      "name": "5dim_transport",
+      "enabled": false
+    },
+    {
+      "name": "5dim_vehicle",
+      "enabled": false
+    },
+    {
+      "name": "angelsaddons-oresilos",
+      "enabled": false
+    },
+    {
+      "name": "angelsaddons-pressuretanks",
+      "enabled": false
+    },
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": false
+    },
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    {
+      "name": "angelsinfiniteores",
+      "enabled": true
+    },
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    {
+      "name": "angelssmelting",
+      "enabled": false
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobconfig",
+      "enabled": false
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics_gfxtweak",
+      "enabled": false
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "bobtechsave",
+      "enabled": false
+    },
+    {
+      "name": "bobvehicleequipment",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    {
+      "name": "clock",
+      "enabled": false
+    },
+    {
+      "name": "DeathChest",
+      "enabled": false
+    },
+    {
+      "name": "DeathSplosion",
+      "enabled": false
+    },
+    {
+      "name": "EndlessResourcesWithFullYield",
+      "enabled": true
+    },
+    {
+      "name": "Factorissimo2",
+      "enabled": false
+    },
+    {
+      "name": "FARL",
+      "enabled": false
+    },
+    {
+      "name": "RailTanker",
+      "enabled": false
+    },
+    {
+      "name": "rso-mod",
+      "enabled": false
+    },
+    {
+      "name": "SeaBlock",
+      "enabled": true
+    },
+    {
+      "name": "SeaBlockMetaPack",
+      "enabled": false
+    },
+    {
+      "name": "UPS-up",
+      "enabled": false
+    }
+  ]
+}
